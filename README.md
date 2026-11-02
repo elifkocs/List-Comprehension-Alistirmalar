@@ -1,1 +1,1 @@
-# List-Comprehension-Al-t-rmalar
+# List-Comprehension-Alistirmalar
